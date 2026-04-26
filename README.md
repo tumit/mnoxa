@@ -30,7 +30,7 @@ mise --version
 ### Quick start
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/tumit/mnox/main/scripts/mnoxa.sh | bash
+curl -fsSL https://raw.githubusercontent.com/tumit/mnoxa/main/scripts/mnoxa.sh | bash
 ```
 
 ---
@@ -38,7 +38,7 @@ curl -fsSL https://raw.githubusercontent.com/tumit/mnox/main/scripts/mnoxa.sh | 
 ### Safer way
 
 ```bash
-curl -fsSL -o mnoxa.sh https://raw.githubusercontent.com/tumit/mnox/main/scripts/mnoxa.sh
+curl -fsSL -o mnoxa.sh https://raw.githubusercontent.com/tumit/mnoxa/main/scripts/mnoxa.sh
 bash mnoxa.sh
 ```
 
